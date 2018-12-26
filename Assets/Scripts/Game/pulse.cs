@@ -17,10 +17,10 @@ public class pulse : MonoBehaviour {
 
 		GetComponent<Renderer>().material.color = color;
 
-		transform.localScale = new Vector3 (settings.current.wallSpacing, 0.1f, settings.current.wallSpacing);
+		transform.localScale = new Vector3 (settings.wallSpacing, 0.1f, settings.wallSpacing);
 	}
 
-	void pdate() {
+	void Update() {
 		if (black){
 			toBlack();
 		}else{

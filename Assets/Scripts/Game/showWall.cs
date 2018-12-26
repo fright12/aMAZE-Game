@@ -7,7 +7,7 @@ public class showWall : MonoBehaviour {
 	void Start(){
 		gameObject.GetComponent<BoxCollider> ().isTrigger = true;
 		gameObject.GetComponent<BoxCollider> ().center = new Vector3 (0f, 12f, 0f);
-		gameObject.GetComponent<BoxCollider> ().size += new Vector3 ((settings.current.wallSpacing * 4 - 1) * xOrY(gameObject.transform.localScale.z), 0f, (settings.current.wallSpacing * 4 - 1)* xOrY(gameObject.transform.localScale.x));
+		gameObject.GetComponent<BoxCollider> ().size += new Vector3 ((settings.wallSpacing * 4 - 1) * xOrY(gameObject.transform.localScale.z), 0f, (settings.wallSpacing * 4 - 1)* xOrY(gameObject.transform.localScale.x));
 	}
 
 	void OnTriggerEnter(){

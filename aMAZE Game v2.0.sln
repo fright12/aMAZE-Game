@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aMAZE Game v2.0.CSharp.Plugins", "aMAZE Game v2.0.CSharp.Plugins.csproj", "{352B3C13-54E3-980C-C661-4FA198C900D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aMAZE Game v2.0.CSharp", "aMAZE Game v2.0.CSharp.csproj", "{E1568264-1905-83F8-89E9-A868851935AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aMAZE Game v2.0.CSharp.Editor", "aMAZE Game v2.0.CSharp.Editor.csproj", "{57772B00-B47F-77DB-21C3-FCEBF53C72D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352B3C13-54E3-980C-C661-4FA198C900D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352B3C13-54E3-980C-C661-4FA198C900D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352B3C13-54E3-980C-C661-4FA198C900D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352B3C13-54E3-980C-C661-4FA198C900D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1568264-1905-83F8-89E9-A868851935AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1568264-1905-83F8-89E9-A868851935AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1568264-1905-83F8-89E9-A868851935AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1568264-1905-83F8-89E9-A868851935AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57772B00-B47F-77DB-21C3-FCEBF53C72D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57772B00-B47F-77DB-21C3-FCEBF53C72D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57772B00-B47F-77DB-21C3-FCEBF53C72D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57772B00-B47F-77DB-21C3-FCEBF53C72D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

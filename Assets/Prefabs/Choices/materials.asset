@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b3a1b95cca433a4e8f11c2436eaa261, type: 3}
+  m_Name: materials
+  m_EditorClassIdentifier: 
+  array:
+  - obj: {fileID: 2100000, guid: 6641b0d643f3f3641a48f1a476baf386, type: 2}
+    price: 100
+  - obj: {fileID: 2100000, guid: 78974d2f85a59fc499d154e567c11d49, type: 2}
+    price: 100
+  - obj: {fileID: 2100000, guid: 3319a57c0b6518e4aa93bd2e3edd9bfe, type: 2}
+    price: 150
+  - obj: {fileID: 2100000, guid: d63b3d433375695478e497e2933eac09, type: 2}
+    price: 150
+  - obj: {fileID: 2100000, guid: 6da151ccae4b78d448a52fe387f53cb7, type: 2}
+    price: 200
+  - obj: {fileID: 2100000, guid: c44ee7308fa9483489d2b5ed1a88ba0c, type: 2}
+    price: 200
+  - obj: {fileID: 2100000, guid: 5c8a4e1f248ae9f4fab83ef327ff3898, type: 2}
+    price: 200
+  - obj: {fileID: 2100000, guid: 0c26b4c84ab19ad458dc8f02ac1747a7, type: 2}
+    price: 200
+  - obj: {fileID: 2100000, guid: 8f9382b6ee249484cbcff1dffda47574, type: 2}
+    price: 250
+  - obj: {fileID: 2100000, guid: 90cb3c645e5ce7f4b828c0fbe100151c, type: 2}
+    price: 250
+  - obj: {fileID: 2100000, guid: ff712044a1677cb4faaf77165685c5cb, type: 2}
+    price: 500
+  - obj: {fileID: 2100000, guid: 41beb21326c85d24dacf689b2b30703f, type: 2}
+    price: 500
+  - obj: {fileID: 2100000, guid: 35df40f761814274781e96c08282a5c7, type: 2}
+    price: 500
+  - obj: {fileID: 2100000, guid: 2fcceccded679c041bbd105eab2c434c, type: 2}
+    price: 0
+  - obj: {fileID: 2100000, guid: c9673221a0053a6438c4de0cfe772d7a, type: 2}
+    price: 500
+  - obj: {fileID: 2100000, guid: a7d5e4b360e60074c9e71d4e8f69864f, type: 2}
+    price: 0
+  - obj: {fileID: 2100000, guid: c4ef03d4db0207e4f929d97ef39d4438, type: 2}
+    price: 1000
+  - obj: {fileID: 2100000, guid: 1391761be4231a94ea1ceeb1443cdc03, type: 2}
+    price: 1000
+  - obj: {fileID: 2100000, guid: 113b786486a12014a922d67a00c08a43, type: 2}
+    price: 1000
+  - obj: {fileID: 2100000, guid: b7ebef28311bd174ab0318791f5663aa, type: 2}
+    price: 1000

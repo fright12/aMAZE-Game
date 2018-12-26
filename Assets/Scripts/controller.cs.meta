@@ -1,11 +1,12 @@
 fileFormatVersion: 2
 guid: 806ede1597ce6664cb1de0aafd08e328
+timeCreated: 1459104806
+licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences:
-  - defaultWall: {instanceID: 0}
-  - defaultGround: {instanceID: 0}
-  - defaultSkybox: {instanceID: 0}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

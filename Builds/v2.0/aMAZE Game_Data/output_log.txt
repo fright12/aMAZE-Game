@@ -1,0 +1,55 @@
+Initialize engine version: 5.3.3f1 (910d71450a97)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.086 seconds
+Platform assembly: C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Flint\Documents\Unity\aMAZE Game Stuff\aMAZE Game v2.0\Builds\v2.0\aMAZE Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 60Hz; virtual: 4440x1616 at -2520,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.544816 ms
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1498)
+
+The referenced script on this Behaviour (Game Object 'GameObject') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.882998 ms
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 1528.
+Total: 0.573355 ms (FindLiveObjects: 0.059944 ms CreateObjectMapping: 0.068055 ms MarkObjects: 0.353322 ms  DeleteObjects: 0.091680 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.562799 ms
+
+Unloading 123 unused Assets to reduce memory usage. Loaded Objects now: 1397.
+Total: 0.880837 ms (FindLiveObjects: 0.063823 ms CreateObjectMapping: 0.063471 ms MarkObjects: 0.525047 ms  DeleteObjects: 0.226732 ms)
+
+saved
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 5cb8 -> priority: 1 
